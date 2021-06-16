@@ -688,7 +688,7 @@ p {
 @media only screen and (min-width: 1366px) {
     .transform {
     width: 50vw;
-    min-height: 80vh;
+    min-height: 100vh;
     }
     .service-info-1 h2 {
         padding-right: 20rem;
@@ -698,7 +698,7 @@ p {
     }
     .stand-out {
     width: 50vw;
-    min-height: 80vh;
+    min-height: 100vh;
     }
     .service-info-2 h2 {
         padding-right: 15rem;
@@ -708,11 +708,11 @@ p {
     }
     .service-3 .graphic-design {
         width: 50vw;
-        height: 80vh;
+        height: 100vh;
     }
     .service-4 .photography {
         width: 50vw;
-        height: 80vh;
+        height: 100vh;
     }
 }
 /* end media queryc jkghhr */
