@@ -684,5 +684,36 @@ p {
          background-image: url(./img/desktop/image-gallery-sugarcubes.jpg);
      }  
 }
+
+@media only screen and (min-width: 1366px) {
+    .transform {
+    width: 50vw;
+    min-height: 80vh;
+    }
+    .service-info-1 h2 {
+        padding-right: 20rem;
+    }
+    .service-info-1 p {
+        padding-right: 10rem;
+    }
+    .stand-out {
+    width: 50vw;
+    min-height: 80vh;
+    }
+    .service-info-2 h2 {
+        padding-right: 15rem;
+    }
+    .service-info-2 p {
+        padding-right: 10rem;
+    }
+    .service-3 .graphic-design {
+        width: 50vw;
+        height: 80vh;
+    }
+    .service-4 .photography {
+        width: 50vw;
+        height: 80vh;
+    }
+}
 /* end media queryc jkghhr */
  
